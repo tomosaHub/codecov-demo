@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="59de8999-539c-4b1e-9c7b-fa5a5f7961a5" name="Changes" comment="step1: add calculator backend and tests" />
     <list default="true" id="59de8999-539c-4b1e-9c7b-fa5a5f7961a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "step2",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "step1",
@@ -48,6 +53,21 @@
       <option name="presentableId" value="Default" />
       <updated>1719191194740</updated>
     </task>
+    <task id="LOCAL-00001" summary="step1: add calculator backend and tests">
+      <option name="closed" value="true" />
+      <created>1719194191561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719194191561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="step1: add calculator backend and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="step1: add calculator backend and tests" />
+  </component>
     <servers />
   </component>
 </project>
